@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo registro</string>
+    <string-array name="Paises">
+        <item>Seleccione un Pais</item>
+        <item>Honduras +504</item>
+        <item>EL Salvador +503</item>
+        <item>Guatemala +502</item>
+        <item>Costa Rica +506</item>
+    </string-array>
+</resources>
